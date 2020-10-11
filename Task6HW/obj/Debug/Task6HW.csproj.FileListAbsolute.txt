@@ -1,0 +1,10 @@
+C:\Users\Наталия\source\repos\Task6HW\Task6HW\obj\Debug\Task6HW.csprojAssemblyReference.cache
+C:\Users\Наталия\source\repos\Task6HW\Task6HW\obj\Debug\Task6HW.Form1.resources
+C:\Users\Наталия\source\repos\Task6HW\Task6HW\obj\Debug\Task6HW.Properties.Resources.resources
+C:\Users\Наталия\source\repos\Task6HW\Task6HW\obj\Debug\Task6HW.csproj.GenerateResource.cache
+C:\Users\Наталия\source\repos\Task6HW\Task6HW\obj\Debug\Task6HW.csproj.CoreCompileInputs.cache
+C:\Users\Наталия\source\repos\Task6HW\Task6HW\bin\Debug\Task6HW.exe.config
+C:\Users\Наталия\source\repos\Task6HW\Task6HW\bin\Debug\Task6HW.exe
+C:\Users\Наталия\source\repos\Task6HW\Task6HW\bin\Debug\Task6HW.pdb
+C:\Users\Наталия\source\repos\Task6HW\Task6HW\obj\Debug\Task6HW.exe
+C:\Users\Наталия\source\repos\Task6HW\Task6HW\obj\Debug\Task6HW.pdb
